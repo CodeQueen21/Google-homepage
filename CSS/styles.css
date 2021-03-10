@@ -119,3 +119,25 @@ input {
     left: 10px;
     cursor: pointer;
 }
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    margin-bottom: 50px;
+    position: relative;
+    bottom: 42%;
+}
+
+.bottom_button {
+    padding: 10px;
+    background-color: #ECECEC;
+    color: rgba(0, 0, 0, 0.664);
+    border-radius: 5px;
+}
+
+.bottom_button:hover {
+  text-decoration: none;
+  border: 1px solid #c6c6c6;
+  color: #222;
+}
