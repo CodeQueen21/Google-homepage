@@ -51,3 +51,25 @@ ul a img{
     text-decoration: none;
     background-color: #4285f4;
 }
+
+main {
+    height: 434px;
+}
+
+.main_container {
+    height: 300px;
+    width: auto;
+}
+
+#logo {
+    width: auto;
+    height: 250px;
+    margin-top: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
