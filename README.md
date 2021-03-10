@@ -1,0 +1,1 @@
+In this project"ve built a replica of the Google Homepage. This page demonstrates my knowledge of HTML/CSS. I've used colors, manipulated the font sizes and colors. using Flexbox and margin ive centered elements in their containers. Also ive add images and adjusted their sizes to fit the page. I've experimented with hover and also used @media Query to add some responsiveness.
