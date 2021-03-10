@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+}
+
+nav {
+    margin: 15px 20px 20px 20px;
+    width: auto;
+    height: 25px;
+}
+
+ul {
+    display: inline-block;
+}
+
+#right {
+    float: right;
+}
+
+ul li {
+    display: inline-block;
+    font-size: 13px;
+    font-family:  Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+}
+
+ul a img{
+    height: 25px;
+    width: 25px;
+}
+
+#button {
+    padding: 12px 25px 12px 25px;
+    background-color:#2b7de9;;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: default;
+}
+
+ .underline:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#button:hover {
+    text-decoration: none;
+    background-color: #4285f4;
+}
