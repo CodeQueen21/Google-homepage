@@ -73,3 +73,49 @@ main {
     margin-right: auto;
     
 }
+
+#searchbar {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    position: relative;
+    bottom: 35%;
+}
+
+.container {
+    border: 1px solid lightgray;
+    width: 550px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.container:hover {
+   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+input {
+    width: 450px;
+    outline: none;
+    background-color: transparent;
+    border: none;
+}
+
+.search_icon {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 14px;
+    right: 22px;
+}
+
+.microphone_icon {
+    height: 25px;
+    width: 15px;
+    position: relative;
+    top: 7px;
+    left: 10px;
+    cursor: pointer;
+}
